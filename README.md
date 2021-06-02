@@ -29,7 +29,7 @@ If you've followed these steps, it should be done! Changes will take restarting 
 
 # Bug Reporting:
 
-If you see any weird glitches, forgotten textures (which are listed below but aren't working in game), or weird clipping issue, report them [here](https://github.com/keyboardturner/WoWUIUprezTBC/issues).
+If you see any weird glitches, forgotten textures (which are listed below but aren't working in game), or weird clipping issue, report them PH Link.
 
 # Contents:
 <details>
