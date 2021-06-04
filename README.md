@@ -25,7 +25,7 @@ If you've followed these steps, it should be done! Changes will take restarting 
 
 # Uninstalling:
 
-1. In the same `...\World of Warcraft\_retail_\Interface\` directory, delete `GLUES`. Easy.
+1. In the same `...\World of Warcraft\_retail_\Interface\` directory, delete `PH_FILE_PATHS`. Easy.
 
 # Bug Reporting:
 
